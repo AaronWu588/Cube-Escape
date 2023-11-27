@@ -2,15 +2,15 @@
 
 #### Your name
 
-TODO
+Aaron Wu
 
 #### Your section leader's name
 
-TODO
+Aaron Wu
 
 #### Project title
 
-TODO
+Cube Evade
 
 ***
 
