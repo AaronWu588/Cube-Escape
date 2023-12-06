@@ -1,4 +1,5 @@
 # CubeEscape
+//https://youtu.be/dFMDIQOpmNE<--- video
 setScreen("screen4");
 playSound("sound://category_music/clear_evidence_loop1.mp3",true);
 var rando = randomnum();
