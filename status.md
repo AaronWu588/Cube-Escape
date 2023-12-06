@@ -25,4 +25,4 @@ I want to make it multi-level and change some of the obsticles directions to mak
 
 #### What problems, if any, have you encountered?
 
-I have encountered some such as having to relearn Javascript and having to relearn how to use code.org but the most difficult problem i faced was making it so the cube doesnt go though walls, this took quite a bit of trial and error but i found out how to do it. 
+I have encountered some such as having to relearn Javascript and having to relearn how to use code.org but the most difficult problem i faced was making it so the cube doesnt go though walls, this took quite a bit of trial and error but i found out how to do it. I found out that trying to program the cube to not go though a single solid block was too difficult and i was stuck on trying to figure it out for a day or so, then i finally realized i can split the block in two to program each block to focus on one side.
